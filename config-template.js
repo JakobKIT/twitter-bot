@@ -1,3 +1,7 @@
+/*
+  Template for your keys and secrets.
+  DON'T CHECK IN YOUR SECRETS!
+*/
 module.exports = {
   consumer_key: '',
   consumer_secret: '',
